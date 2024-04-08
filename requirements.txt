@@ -1,0 +1,16 @@
+langchain
+huggingface_hub
+transformers
+torch
+torchvision
+torchaudio
+chainlit
+pypdf
+gpt4all
+google-search-results
+pinecone-client
+langchain-openai
+tiktoken
+wikipedia
+faiss-cpu
+numexpr
